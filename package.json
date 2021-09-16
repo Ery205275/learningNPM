@@ -1,0 +1,22 @@
+{
+  "name": "learningnpmandgulp",
+  "version": "1.0.0",
+  "description": "first crack at npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "package",
+    "management"
+  ],
+  "author": "GIA",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "jquerry": "0.0.1-security",
+    "underscore": "^1.13.1"
+  }
+}
